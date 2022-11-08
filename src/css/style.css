@@ -160,6 +160,7 @@ logo{
     }
     .navbar.open{
        right: 2%; 
+       border-color: 4px solid #000000;
     }
     .sobre {  
         margin: 130px 40px;
