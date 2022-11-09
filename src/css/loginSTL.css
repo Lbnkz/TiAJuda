@@ -33,7 +33,7 @@ body {
   left: -50%;
   width: 380px;
   height: 500px;
-  background: linear-gradient(0deg, transparent, red, red);
+  background: linear-gradient(0deg, transparent, #000000, #000000);
   transform-origin: bottom right;
   animation: animate 6s linear infinite;
 }
