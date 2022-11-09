@@ -179,6 +179,8 @@ logo{
         margin: 130px 30px;
         padding: 0;
     }
+    header a span{
+        display: none;
 }
     
 
